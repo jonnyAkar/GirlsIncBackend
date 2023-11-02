@@ -2,6 +2,8 @@ import json
 import os
 import collections
 from flask import Flask, render_template, request, jsonify, g
+from flask_cors import CORS
+
 import sqlite3
 import pandas as pd
 import nbformat
@@ -48,6 +50,9 @@ cursor.close()
 conn.close()
 
 app = Flask(__name__)
+CORS(app)
+
+
 
 #------------------------------ HELPERS ------------------------------
 
