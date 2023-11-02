@@ -1,4 +1,4 @@
-Timestamp,First Name,Last Name,School Name,What grade are you in?,How many years have you been in Girls Inc?,"On a scale of 1-5, how would you rate your understanding of self awareness?",How likely are you to recommend Girls Inc to a friend?,How would you rate your engagement in Girls Inc?
+Timestamp,First Name,Last Name,School Name,Grade,YearsInGirlsInc,SelfAwarenessRating,RecommendToFriendRating,EngagementRating
 2023-10-05 17:01:29,amarylix,Velez Torres,Santa Clara,4,2,3,3,5
 2023-10-05 17:02:07,kiara,jimenez,Santa Clara,4,1,4,3,3
 2023-10-05 17:04:38,Aylin,Gomez,Santa Clara,4,1,3,5,4
